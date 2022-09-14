@@ -36,7 +36,6 @@
 - This project was inspired by IIIT, Bangalore and Upgrad, Bangalore.
 - Python Documentation
 - Upgrad Study Material
-- https://www.tensorflow.org/tutorials/load_data/images
 
 
 ## Contact
